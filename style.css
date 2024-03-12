@@ -1,0 +1,36 @@
+body{
+    background-color: #F6FEF7;
+    
+}
+
+/* Header */
+header{
+    display: flex;
+    justify-content: space-between;
+}
+#logo-img{
+    width: 40px;
+    margin-right: 0px;
+}
+#logo-text{
+    text-decoration: none;
+    color: green;
+    text-align: left;
+}
+
+nav > a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: greenyellow;
+
+} 
+nav > a:hover{
+    color: green;
+}
+
+
+/* Hero */
+#hero-img{
+    max-width: 100%;
+    height: auto;
+}
