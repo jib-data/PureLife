@@ -41,15 +41,15 @@ His commitment to empowering individuals through education and personalized care
 
 
 Our Values:
-Holistic Approach:At [Your Agency Name], we are committed to a holistic approach to wellness. 
+Holistic Approach:At Pure Life, we are committed to a holistic approach to wellness. 
 We believe in addressing the interconnectedness of mind, body, and spirit, recognizing that true health extends beyond the absence of illness. 
 Our practitioners collaborate to provide comprehensive care, empowering individuals to achieve balance and vitality in every aspect of their lives.
 
-Compassionate Care:Compassion is at the heart of everything we do at [Your Agency Name]. 
+Compassionate Care: Compassion is at the heart of everything we do at Pure Life. 
 We prioritize building genuine connections with our clients, listening attentively to their needs, and providing support with empathy and understanding. 
 Our commitment to compassionate care ensures that each individual feels valued and supported on their journey to optimal well-being.
 
-Integrity and Transparency:At [Your Agency Name], we uphold the highest standards of integrity and transparency. We believe in open communication, honesty, and ethical practices. 
+Integrity and Transparency: At Pure Life, we uphold the highest standards of integrity and transparency. We believe in open communication, honesty, and ethical practices. 
 From explaining our treatment modalities to outlining the potential benefits and risks, we strive to ensure that our clients are well-informed and confident in their choices. 
 Trust is the foundation of our relationship with our community, and we are dedicated to maintaining it with the utmost integrity.
 
