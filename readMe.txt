@@ -3,8 +3,8 @@ Hero: Welcome to Pure Life, where wellness meets alternative medicine.
 Embrace a journey to holistic health with our dedicated team of practitioners.
 
 About Us:
-Welcome to [Your Agency Name]
-At [Your Agency Name], We are dedicated to providing holistic and alternative approaches to wellness, blending ancient traditions with modern practices. 
+Welcome to Pure Life
+At Pure Life, We are dedicated to providing holistic and alternative approaches to wellness, blending ancient traditions with modern practices. 
 Our journey began with a shared vision among a group of passionate practitioners who recognized the profound impact that alternative medicine could have on people's lives.
 
 Our Team:
@@ -24,7 +24,7 @@ Meet Sarah Johnson, our Licensed Massage Therapist (LMT) at [Your Agency Name]. 
 Her intuitive touch and personalized approach cater to each client's unique needs, promoting relaxation, reducing muscle tension, and enhancing overall well-being. 
 Sarah is dedicated to creating a serene and nurturing environment for her clients, fostering a sense of tranquility and rejuvenation through the power of therapeutic touch.
 
-3. Herbal Medicine Consultant: Olivia Harper, RH
+3. Herbal Medicine Consultant: Oliver Harper, RH
 
 Olivia Harper is our Herbal Medicine Consultant at [Your Agency Name]. With a degree in Herbalism and extensive knowledge of botanical medicine, Olivia is passionate about harnessing the healing properties of plants to support holistic health. 
 She conducts personalized consultations, carefully crafting custom herbal blends to address individual health concerns. 
